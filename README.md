@@ -1,4 +1,4 @@
-# Gettin-n-cleanin-Assignment
+# Getting and cleaning data with R: Assignment
 
 This file is part of the submmission of the 4th week.
 This homework consist a number of steps, starting from assigning a driectory and downloading the data files and ending by creating a tidy dateset.
