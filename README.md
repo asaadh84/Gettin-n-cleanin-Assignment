@@ -15,6 +15,7 @@ The means and standard diviations consititute the variables/columns.
 Each row captures the different values recorded for a subject.
 
 - The script (run_analysis.R) achieves the following:
+ 
  1- Assign a directory and downloading.
  
  2- Unzip and get the list of files.
