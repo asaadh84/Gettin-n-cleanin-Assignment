@@ -9,8 +9,9 @@ Dataset X outlines sensor signals data obtained through waist-mounted smartphone
 # Data & treatment
 The R codes used in this exercize facilitated the aggregation of extraction of frequency-based (mean and standard deviation) partial variables from the training and the testing datasets. 
 
-- Varaibles and cases
-The means and standard diviations consititute the variables.
+- Varaibles and cases:
+
+The means and standard diviations consititute the variables/columns.
 Each row captures the different values recorded for a subject.
 
 - The script (run_analysis.R) achieves the following:
