@@ -1,11 +1,11 @@
-#Code Book
+# Code Book
 
 This code book is constructed based on a number of basic data R summarization tools
 
 The second_Tidy file is a data.frame type.
 It contains 180 observation (cases/rows) and  82 variables (columns)
 
-#Variables:
+# Variables:
 "subjectId"                       "activityId"                      "tBodyAcc-mean()-X"              
 "tBodyAcc-mean()-Y"               "tBodyAcc-mean()-Z"               "tBodyAcc-std()-X"               
 "tBodyAcc-std()-Y"                "tBodyAcc-std()-Z"                "tGravityAcc-mean()-X"           
